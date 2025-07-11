@@ -4,7 +4,7 @@
 # THEME. The following 3 lines don't need to change
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.0 #updated 4 Jul 2025
-repository: 'digitalarcplatform/demo' # change this to your repository name
+repository: 'DigitalHealthHumanities/DAtoolkit' # change this to your repository name
 
 
 ##############################################
@@ -43,26 +43,26 @@ repository: 'digitalarcplatform/demo' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "A Sample DigitalArc Collection Site"
+title: "Digital Health Humanities Toolkit"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An exhibit platform for collective storytelling & community archives"
+subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "DigitalArc Community Archiving Template - Demo Site"
+description: ""
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "DigitalArc"
-authorname : "DigitalArc: An exhibit platform for collective storyelling & community archives"
-sitelogo: site_logo.jpg
-placeholderimg: placeholder.png
+author: "Digital Health Humanities Program at UCSF"
+authorname : ""
+sitelogo: 
+placeholderimg: 
 
 # What year did you start up this community project?
-sitedate : 2024
+sitedate : 2025
 
 # Other community social media. Leave blank if you don't have these.
-email : "digitalarcplatform [at] gmail.com"
+email : 
 website : 
 twitter : 
 github : 
